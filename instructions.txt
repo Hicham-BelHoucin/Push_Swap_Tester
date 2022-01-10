@@ -1,8 +1,0 @@
-arg: 490 44 246  
-
-Moves: 
-sa
-rra
-sa 
-
-Number Of Moves:  3
